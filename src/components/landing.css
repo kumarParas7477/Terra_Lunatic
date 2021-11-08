@@ -1,0 +1,71 @@
+.landing{
+    /* position: relative; */
+
+}
+.boxProp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid white;
+    border-radius: 0.3rem;
+    padding: 0 1%;
+    color: white !important;
+    flex-wrap: wrap;
+    /* font-size: 1rem; */
+    align-items: center;
+    text-align: center;
+}
+.Metrics{
+    display: flex;
+    justify-content: center;
+}
+.staking{
+    display: flex;
+    justify-content:center
+}
+.information {
+    flex-direction: column;
+    margin-right: 5%;
+}
+.information div{
+    color: white;
+}
+
+.rewardsInfo{
+    /* width: 4rem; */
+    /* height: 7rem; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 0.1rem solid white;
+    border-radius: 0.4rem;
+}
+
+.lunacard{
+    margin: 4% auto;
+    color: white;
+    width: fit-content;
+    padding: 0 1%;
+}
+
+.usTAnchor{
+    color:  white;
+    display: flex;
+    justify-content: center;
+    margin-top: 2% ;
+    font-size: 1rem;
+ 
+}
+.usTAnchor img{
+    margin-right: 1%;
+}
+
+.delegation{
+    text-align: center;
+    margin-top: 3%;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  /* ali */
+   
+}

@@ -1,13 +1,14 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: monospace;
+  -webkit-font-smoothing: monospace;
+  -moz-osx-font-smoothing: monospace;
+  /* background: linear-gradient(to right,rgb(176, 214, 165),rgb(133, 224, 105)); */
+  background-image: url("./assets/Earth.jpg");
+  color: aquamarine;
 }
 
-code {
+/* code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
+} */

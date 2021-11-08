@@ -1,0 +1,12 @@
+.uButton {
+    padding: 0.1rem 0.7rem;
+    font-weight:1200;
+    font-size: 1rem;
+    border: 0.2rem solid black;
+    border-radius: 0.1rem;
+    color: white;
+   
+}
+.uButton:hover{
+    background-color: rgba(4, 3, 15, 0.212);
+}
